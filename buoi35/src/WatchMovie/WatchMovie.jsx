@@ -16,7 +16,7 @@ function WatchMovie() {
       <div className="container-fluid">
         <div className="row">
           <div className="col-8 text-center">
-            <div className="display-4 text-warning">Booking Ticket DOUBLE H </div>
+            <div className="display-4 text-warning">Booking Ticket YoungHGroup </div>
             <div className='mt-3 text-light' style={{fontSize:'25px'}}>Screen</div>
             <div className="mt-2" style={{flexDirection:'row',display:'flex',justifyContent:'center'}}>
               <div className="screen"></div>
